@@ -1,60 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>syntax on Rajeet Talks Tech</title>
+    <title>Syntax on Rajeet Talks Tech</title>
     <link>https://rajeettalkstech.github.io/categories/syntax/</link>
-    <description>Recent content in syntax on Rajeet Talks Tech</description>
+    <description>Recent content in Syntax on Rajeet Talks Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://rajeettalkstech.github.io/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://rajeettalkstech.github.io/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Blog</title>
       <link>https://rajeettalkstech.github.io/blog/first-blog/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://rajeettalkstech.github.io/blog/first-blog/</guid>
-      <description>&lt;p&gt;I have edited this file&lt;/p&gt;
-&lt;p&gt;making changes to check live render&lt;/p&gt;
-&lt;p&gt;doing it a third time&lt;/p&gt;
-&lt;p&gt;doing 4th time&lt;/p&gt;
-&lt;p&gt;Doing 5th time&lt;/p&gt;
-&lt;p&gt;DOING IT AGAIN&lt;/p&gt;
-&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I have edited this file&lt;/p&gt;&#xA;&lt;p&gt;Can you see my changes again?&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;I can basically write any code here&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://rajeettalkstech.github.io/img/image.png&#34; alt=&#34;hi&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>First Blog</title>
       <link>https://rajeettalkstech.github.io/projects/first-blog-1/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://rajeettalkstech.github.io/projects/first-blog-1/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://rajeettalkstech.github.io/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://rajeettalkstech.github.io/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;Changed this blog post as well&lt;/p&gt;
-&lt;p&gt;changing this post a second time&lt;/p&gt;
-&lt;p&gt;changing post a third time&lt;/p&gt;
-&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Changed this blog post as well&lt;/p&gt;&#xA;&lt;p&gt;changing this post a second time&lt;/p&gt;&#xA;&lt;p&gt;changing post a third time&lt;/p&gt;&#xA;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://rajeettalkstech.github.io/projects/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://rajeettalkstech.github.io/projects/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
